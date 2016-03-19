@@ -26,3 +26,24 @@
 *.exe
 *.out
 *.app
+
+# Various detritus
+Thumbs.db
+*.bak
+*.old
+*.~
+*~
+
+# Test/dummy media files
+*.mpg
+*.mpeg
+*.avi
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.ogv
+
+# Output binary
+dumbmediacenter
+
