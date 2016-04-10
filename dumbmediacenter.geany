@@ -1,0 +1,65 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=true
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=dumbmediacenter
+base_path=/home/s0/_/prj/src/linuxc/dumbmediacenter
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=0
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=0;C++;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fchan.cpp;0;4
+FILE_NAME_1=2503;C++;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fcommon.cpp;0;4
+FILE_NAME_2=0;C++;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fdispatcher.cpp;0;4
+FILE_NAME_3=0;C;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fmacros.h;0;4
+FILE_NAME_4=0;C++;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fmain.cpp;0;4
+FILE_NAME_5=0;C;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fmain.h;0;4
+FILE_NAME_6=0;Make;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fmakefile;0;4
+FILE_NAME_7=0;C++;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fplayer.cpp;0;4
+FILE_NAME_8=52;C++;0;16;1;1;0;%2Fhome%2Fs0%2F_%2Fprj%2Fsrc%2Flinuxc%2Fdumbmediacenter%2Fvlc.cpp;0;4
+
+[VTE]
+last_dir=/home/s0/_/prj/src/linuxc/dumbmediacenter
+
+[build-menu]
+EX_00_LB=_Execute
+EX_00_CM="./dumbmediacenter"
+EX_00_WD=
+EX_01_LB=
+EX_01_CM=
+EX_01_WD=
+NF_00_LB=_Make
+NF_00_CM=make
+NF_00_WD=
+C++FT_00_LB=_Compile
+C++FT_00_CM=g++ -Wall -c "%f"
+C++FT_00_WD=
+C++FT_01_LB=_Build
+C++FT_01_CM=make
+C++FT_01_WD=
+filetypes=C++;
+NF_01_LB=
+NF_01_CM=
+NF_01_WD=
+NF_03_LB=Git commit & push
+NF_03_CM=x-terminal-emulator -e bash -c "git commit -a; git push; read -n1"
+NF_03_WD=
+NF_02_LB=Git add
+NF_02_CM=git add "%f"
+NF_02_WD=
